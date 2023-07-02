@@ -1,6 +1,6 @@
 {
   "name": "dismon",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A lightweight discord API wrapper with nodejs that monitors discord API events.",
   "main": "index.js",
   "directories": {
