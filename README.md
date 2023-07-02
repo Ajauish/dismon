@@ -1,8 +1,8 @@
 <div align="center">
    <h1>Dismon.js</h1>
-    A node.js library that gives you the ability to monitor Discord API gateway events.<br>
- 		<a href="https://www.npmjs.com/package/dismon"> <img src="https://img.shields.io/npm/v/auth-github.svg?maxAge=3600" alt="npm version" /> </a>
-		 <a href="https://www.npmjs.com/package/dismon"><img src="https://img.shields.io/npm/dt/auth-github.svg?maxAge=3600" alt="npm downloads" /></a>
+    A node.js library that gives you the ability to monitor Discord API gateway events.<br><br>
+ 		<a href="https://www.npmjs.com/package/dismon"> <img src="https://img.shields.io/npm/v/dismon.svg?maxAge=3600" alt="npm version" /> </a>
+		 <a href="https://www.npmjs.com/package/dismon"><img src="https://img.shields.io/npm/dt/dismon.svg?maxAge=3600" alt="npm downloads" /></a>
 </div>
 
 
