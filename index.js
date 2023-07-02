@@ -1,4 +1,4 @@
-const Client = require('./Client/Client');
+const Client = require('./lib/Client');
 
 
 module.exports = {
