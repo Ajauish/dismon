@@ -1,4 +1,5 @@
 <div align="center">
+    <img src="https://i.imgur.com/75PJ0FT.png">
    <h1>Dismon.js</h1>
     A node.js library that gives you the ability to monitor Discord API gateway events.<br><br>
  		<a href="https://www.npmjs.com/package/dismon"> <img src="https://img.shields.io/npm/v/dismon.svg?maxAge=3600" alt="npm version" /> </a>
